@@ -1,0 +1,12 @@
+{
+  "name": "spa-users-comments",
+  "version": "1.0.0",
+  "description": "SPA for displaying users and comments",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
